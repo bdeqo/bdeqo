@@ -16,7 +16,7 @@ I am also a have a Law degree in [Faculdade de Direito de São Bernardo do Campo
 * ⚡  I love sports and my favorite is Soccer
 
 <a href="https://www.github.com/bdeqo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+src="https://img.shields.io/github/followers/bdeqo?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 
