@@ -11,7 +11,7 @@ I am also a have a Law degree in [Faculdade de Direito de São Bernardo do Campo
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [dennysbraga@outlook.com](mailto:dennysbraga@outlook.com)
 * 🚀  I'm currently working on [Tribunal Regional Federal da 3ª Região](https://www.trf3.jus.br/)
-* 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
+* 🧠  I'm learning Advanced Javascript, Typescript, HTML and CSS
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Soccer
 
