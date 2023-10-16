@@ -4,7 +4,7 @@ Hi 👋 My name is Dennys
 Front-End Developer
 -----------------------------
 
-I'm a 31 years old developer specializing in Front-End. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and development, making applications that impact the life of thousands of users.
+I'm a 32 years old developer specializing in Front-End. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and development, making applications that impact the life of thousands of users.
 
 I am also a have a Law degree in [Faculdade de Direito de São Bernardo do Campo](https://www.direitosbc.br/).
 
